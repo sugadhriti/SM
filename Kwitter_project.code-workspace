@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Kwitter_project"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../minecraft"
+		},
+		{
+			"path": "../RETRYYY"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Kwitter_Retry"
+	}
+}
